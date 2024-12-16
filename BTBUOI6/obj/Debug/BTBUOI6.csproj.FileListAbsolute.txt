@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\bin\Debug\BTBUOI6.exe.config
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\bin\Debug\BTBUOI6.exe
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\bin\Debug\BTBUOI6.pdb
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.Form1.resources
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.csproj.Up2Date
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.exe
+C:\Users\LENOVO\source\repos\BTBUOI6\BTBUOI6\obj\Debug\BTBUOI6.pdb
